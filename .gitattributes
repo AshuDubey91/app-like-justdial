@@ -1,0 +1,2 @@
+#pattern  filter=crypt diff=crypt
+sensitive_data  filter=crypt diff=crypt
