@@ -1,4 +1,2 @@
 #pattern  filter=crypt diff=crypt
-sensitive_data  filter=crypt diff=crypt
-sensitive_file  filter=crypt diff=crypt
-sensitive_file1  filter=crypt diff=crypt
+sensitive_*  filter=crypt diff=crypt
